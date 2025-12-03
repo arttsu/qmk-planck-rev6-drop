@@ -1,4 +1,4 @@
-# Layout for my Planck v6
+# Keymap for my Planck v6
 
 Created via [QMK Configurator](https://config.qmk.fm).
 
